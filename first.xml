@@ -1,25 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<groceryshop>
-    <grocery>
-        <id>12</id>
-        <name>Olper</name>
-        <price>70</price>
-    </grocery>
-    <grocery>
-        <id>13</id>
-        <name>Olper</name>
-        <price>70</price>
-    </grocery>
-    <grocery>
-        <id>14</id>
-        <name>Olper</name>
-        <price>70</price>
-    </grocery>
-    <grocery>
-        <id>15</id>
-        <name>Olper</name>
-        <price>70</price>
-    </grocery>
-</groceryshop>
+<FalconStationer>
+
+<Product>
+<ProductId>1</ProductId>
+<ProductName>Pencil</ProductName>
+<Quantity>12000units</Quantity>
+<PricePerUnit>10</PricePerUnit>
+<PricePerDoz>110</PricePerDoz>
+<InStock>yes</InStock>
+</Product>
+
+<Product>
+<ProductId>2</ProductId>
+<ProductName>Pen</ProductName>
+<Quantity>6000units</Quantity>
+<PricePerUnit>60</PricePerUnit>
+<PricePerDoz>700</PricePerDoz>
+<InStock>yes</InStock>
+</Product>
+
+<Product>
+<ProductId>3</ProductId>
+<ProductName>Eraser</ProductName>
+<Quantity>15000units</Quantity>
+<PricePerUnit>7</PricePerUnit>
+<PricePerDoz>80</PricePerDoz>
+<InStock>yes</InStock>
+</Product>
+
+<Product>
+<ProductId>4</ProductId>
+<ProductName>Sharpner</ProductName>
+<Quantity>0units</Quantity>
+<PricePerUnit>10</PricePerUnit>
+<PricePerDoz>110</PricePerDoz>
+<InStock>no</InStock>
+</Product>
+
+<Product>
+<ProductId>5</ProductId>
+<ProductName>BoardMarker</ProductName>
+<Quantity>12000units</Quantity>
+<PricePerUnit>10</PricePerUnit>
+<PricePerDoz>110</PricePerDoz>
+<InStock>yes</InStock>
+</Product>
+
+
+
+
+
+
+
+
+
+
+
+
+</FalconStationer>
