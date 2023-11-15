@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<groceryshop>
+    <grocery>
+        <id>12</id>
+        <name>Olper</name>
+        <price>70</price>
+    </grocery>
+    <grocery>
+        <id>13</id>
+        <name>Olper</name>
+        <price>70</price>
+    </grocery>
+    <grocery>
+        <id>14</id>
+        <name>Olper</name>
+        <price>70</price>
+    </grocery>
+    <grocery>
+        <id>15</id>
+        <name>Olper</name>
+        <price>70</price>
+    </grocery>
+</groceryshop>
